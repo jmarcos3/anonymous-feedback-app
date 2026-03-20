@@ -1,4 +1,4 @@
-# FeedbackHub  
+# Anonymous Feedback App  
 
 A fullstack web application for creating anonymous feedback rooms. Built with **NestJS**, **Drizzle ORM**, **MySQL**, and **Docker** on the backend, and **React**, **TypeScript**, and **TailwindCSS** on the frontend.  
 
